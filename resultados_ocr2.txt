@@ -1,0 +1,43 @@
+===================
+Aula5-Microstrategy.png
+Publicado em Data Science / Business Intelligence por Afonso Augusto Santana Sales Rios
+O Dados tempo de vídeo: 13min
+
+Neste Alura+, aprenda a importar visualizações externas no MicroStrategy Workstation. Vamos
+utilizar a biblioteca VitaraCharts na versão desktop do MicroStrategy, elaborando uma página
+em um dashboard do Campeonato Brasileiro.
+
+  
+
+Sugestão de materiai:
+
+Guia de uso do VitaraCharts (em inglês)
+
+Visualizações online do VitaraCharts
+
+ 
+
+Projet:
+
+Projeto final
+Publicado em Data Science / Business Intelligence por Afonso Augusto Santana Sales Rios
+O Dados tempo de vídeo: 13min
+
+Neste Alura+, aprenda a importar visualizações externas no MicroStrategy Workstation. Vamos
+utilizar a biblioteca VitaraCharts na versão desktop do MicroStrategy, elaborando uma página
+em um dashboard do Campeonato Brasileiro.
+
+  
+
+Sugestão de materiai:
+
+Guia de uso do VitaraCharts (em inglês)
+
+Visualizações online do VitaraCharts
+
+ 
+
+Projet:
+
+Projeto final
+
